@@ -1,0 +1,1 @@
+/home/merasmus/deleteinstance.sh
